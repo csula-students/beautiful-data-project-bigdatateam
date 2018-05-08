@@ -2,8 +2,6 @@
 
 [![Build Status](https://travis-ci.org/csula/datascience-spring-2016.svg?branch=master)](https://travis-ci.org/csula/datascience-spring-2016)
 
-Welcome to the Spring 2016 Data Science class!
-
 As a future data analyst, you are responsible to **collect**, **store**, **analyze** and effectively **report** on data insight.
 
 In this class, we will be learning how to clean up messy data, uncover patterns and insights to conclude or to make predictions. Moreover, we will be communicating our findings with beautiful visualization!
